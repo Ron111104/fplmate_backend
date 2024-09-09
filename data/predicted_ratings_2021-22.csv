@@ -1,0 +1,655 @@
+name,position,now_cost,predicted_rating
+Pierre-Emerick Aubameyang,FWD,96,42
+Alexandre Lacazette,FWD,81,89
+Edward Nketiah,FWD,57,50
+Folarin Balogun,FWD,47,0
+Mika Biereth,FWD,45,0
+Ollie Watkins,FWD,75,130
+Wesley Moraes,FWD,54,0
+Mbwana Ally Samatta,FWD,55,0
+Keinan Davis,FWD,45,0
+Danny Ings,FWD,77,98
+Cameron Archer,FWD,45,1
+Ivan Toney,FWD,69,141
+Marcus Forss,FWD,53,7
+Halil Dervişoğlu,FWD,54,0
+Nathan Young-Coombes,FWD,45,0
+Neal Maupay,FWD,62,95
+Aaron Connolly,FWD,53,4
+Danny Welbeck,FWD,60,82
+Florin Andone,FWD,50,0
+Andi Zeqiri,FWD,45,0
+Jürgen Locadia,FWD,44,0
+Evan Ferguson,FWD,45,0
+Jay Rodriguez,FWD,51,50
+Ashley Barnes,FWD,52,24
+Matej Vydra,FWD,52,41
+Lewis Richardson,FWD,44,0
+Wout Weghorst,FWD,62,44
+Joseph McGlynn,FWD,45,0
+Olivier Giroud,FWD,65,0
+Michy Batshuayi,FWD,55,0
+Timo Werner,FWD,85,54
+Tammy Abraham,FWD,65,0
+Romelu Lukaku,FWD,114,94
+Christian Benteke,FWD,59,53
+Jordan Ayew,FWD,58,78
+Jean-Philippe Mateta,FWD,53,54
+Robert Street,FWD,45,0
+Odsonne Edouard,FWD,60,87
+Dominic Calvert-Lewin,FWD,77,59
+Richarlison de Andrade,FWD,76,127
+Nathan Broadhead,FWD,45,0
+Moise Kean,FWD,60,0
+Salomón Rondón,FWD,60,28
+Ellis Simms,FWD,45,1
+Lewis Dobbin,FWD,45,1
+Cenk Tosun,FWD,50,0
+Jamie Vardy,FWD,103,124
+Kelechi Iheanacho,FWD,70,72
+Patson Daka,FWD,70,64
+Rodrigo Moreno,FWD,63,89
+Patrick Bamford,FWD,77,27
+Sam Greenwood,FWD,46,8
+Joe Gelhardt,FWD,47,40
+Roberto Firmino,FWD,87,68
+Divock Origi,FWD,48,19
+Gabriel Fernando de Jesus,FWD,86,126
+Kayky da Silva Chagas,FWD,50,0
+Liam Delap,FWD,45,0
+Edinson Cavani,FWD,84,31
+Anthony Martial,FWD,76,8
+Cristiano Ronaldo dos Santos Aveiro,FWD,122,171
+Chris Wood,FWD,63,86
+Callum Wilson,FWD,71,72
+Dwight Gayle,FWD,52,6
+Allan Saint-Maximin,FWD,67,120
+Joelinton Cássio Apolinário de Lira,FWD,59,93
+Teemu Pukki,FWD,61,118
+Jordan Hugill,FWD,54,0
+Adam Idah,FWD,48,31
+Joshua Sargent,FWD,54,53
+Thomas Dickson-Peters,FWD,45,0
+Abu Kamara,FWD,45,0
+Daniel N'Lundulu,FWD,45,0
+Che Adams,FWD,65,96
+Michael Obafemi,FWD,45,0
+Armando Broja,FWD,53,87
+Shane Long,FWD,54,14
+Adam Armstrong,FWD,57,46
+Harry Kane,FWD,125,194
+Dane Scarlett,FWD,45,0
+Troy Deeney,FWD,54,1
+Andre Gray,FWD,54,0
+Stipe Perica,FWD,45,0
+Isaac Success Ajayi,FWD,50,0
+Ashley Fletcher,FWD,48,1
+João Pedro Junqueira de Jesus,FWD,54,58
+Emmanuel Dennis,FWD,58,133
+Joshua King,FWD,56,86
+Adedapo Awokoya-Mebude,FWD,45,0
+Juan Camilo Hernández Suárez,FWD,49,67
+Shaqai Forde,FWD,45,0
+Tiago Çukur,FWD,45,0
+Jack Grieves,FWD,45,0
+Michail Antonio,FWD,73,138
+Raúl Jiménez,FWD,75,100
+Fabio Silva,FWD,56,19
+Patrick Cutrone,FWD,50,0
+Hee-Chan Hwang,FWD,54,77
+Willian Borges Da Silva,MID,63,0
+Granit Xhaka,MID,48,70
+Mohamed Naser El Sayed Elneny,MID,44,30
+Ainsley Maitland-Niles,MID,52,10
+Thomas Partey,MID,50,72
+Nicolas Pépé,MID,69,43
+Lucas Torreira,MID,45,0
+Emile Smith Rowe,MID,57,122
+Bukayo Saka,MID,67,175
+Mattéo Guendouzi,MID,45,0
+Gabriel Teodoro Martinelli Silva,MID,53,105
+Albert Sambi Lokonga,MID,48,33
+Reiss Nelson,MID,50,0
+Martin Ødegaard,MID,56,138
+Charlie Patino,MID,45,0
+Omari Hutchinson,MID,45,0
+Salah-Eddine Oulad M'hand,MID,45,0
+Marcelo Flores,MID,45,0
+Miguel Azeez,MID,45,0
+Conor Hourihane,MID,49,0
+Bertrand Traoré,MID,57,12
+Morgan Sanson,MID,50,11
+John McGinn,MID,56,112
+Mahmoud Ahmed Ibrahim Hassan,MID,54,0
+Marvelous Nakamba,MID,44,22
+Emiliano Buendía Stati,MID,61,106
+Douglas Luiz Soares de Paulo,MID,43,90
+Jacob Ramsey,MID,47,104
+Leon Bailey,MID,63,36
+Aaron Ramsey,MID,44,0
+Jaden Philogene-Bidace,MID,50,0
+Carney Chukwuemeka,MID,45,13
+Tim Iroegbunam,MID,45,4
+Philippe Coutinho Correia,MID,71,79
+Benjamin Chrisene,MID,45,0
+Tommi O'Reilly,MID,45,0
+Christian Nørgaard,MID,50,108
+Tariqe Fosu-Henry,MID,51,0
+Sergi Canós,MID,55,78
+Pelenda Joshua Dasilva,MID,53,7
+Vitaly Janelt,MID,49,87
+Saman Ghoddos,MID,52,30
+Mathias Jensen,MID,49,51
+Jan Zamburek,MID,44,0
+Bryan Mbeumo,MID,52,116
+Mads Bidstrup,MID,44,3
+Frank Onyeka,MID,49,29
+Shandon Baptiste,MID,49,30
+Yoane Wissa,MID,57,82
+Paris Maghoma,MID,45,0
+Maxwell Haygarth,MID,45,0
+Myles Peart-Harris,MID,45,0
+Christian Eriksen,MID,56,46
+Adam Lallana,MID,53,43
+Pascal Groß,MID,56,94
+Davy Pröpper,MID,45,0
+Solomon March,MID,53,55
+Leandro Trossard,MID,59,142
+Alireza Jahanbakhsh,MID,55,0
+Yves Bissouma,MID,44,64
+Steven Alzate,MID,48,15
+Alexis Mac Allister,MID,51,96
+Jakub Moder,MID,45,54
+Enock Mwepu,MID,59,48
+Taylor Richards,MID,45,0
+Moisés Caicedo,MID,45,27
+Jeremy Sarmiento,MID,45,4
+Marc Leonard,MID,45,0
+Jack Cork,MID,44,30
+Dale Stephens,MID,44,4
+Ashley Westwood,MID,52,58
+Johann Berg Gudmundsson,MID,54,29
+Josh Brownhill,MID,43,91
+Josh Benson,MID,45,0
+Dwight McNeil,MID,55,93
+Aaron Lennon,MID,46,48
+Maxwel Cornet,MID,58,86
+Dara Costelloe,MID,45,0
+Anthony Mancini,MID,45,0
+Jorge Luiz Frello Filho,MID,57,105
+Ross Barkley,MID,52,12
+Mateo Kovacic,MID,49,72
+N'Golo Kanté,MID,49,76
+Hakim Ziyech,MID,73,80
+Ruben Loftus-Cheek,MID,54,51
+Christian Pulisic,MID,79,73
+Mason Mount,MID,77,164
+Callum Hudson-Odoi,MID,53,46
+Kai Havertz,MID,79,108
+Saúl Ñíguez,MID,49,13
+Lewis Hall,MID,45,0
+Harvey Vale,MID,45,0
+Conor Gallagher,MID,60,138
+James McArthur,MID,43,54
+Luka Milivojevic,MID,52,19
+Wilfried Zaha,MID,69,149
+Jeffrey Schlupp,MID,54,83
+Jairo Riedewald,MID,47,4
+Eberechi Eze,MID,59,31
+Will Hughes,MID,47,30
+Michael Olise,MID,53,64
+Jesurun Rak-Sakyi,MID,44,3
+Scott Banks,MID,45,0
+Anwar El Ghazi,MID,56,18
+Fabian Delph,MID,42,19
+Gylfi Sigurdsson,MID,67,0
+James Rodríguez,MID,69,0
+Bernard Anício Caldeira Duarte,MID,55,0
+Allan Marques Loureiro,MID,43,57
+André Filipe Tavares Gomes,MID,49,17
+Abdoulaye Doucouré,MID,53,88
+Alex Iwobi,MID,58,76
+Tom Davies,MID,48,13
+Donny van de Beek,MID,57,28
+Bamidele Alli,MID,62,31
+Andros Townsend,MID,52,66
+Demarai Gray,MID,54,109
+Anthony Gordon,MID,47,101
+Jean-Philippe Gbamin,MID,44,3
+Charlie Whitaker,MID,45,0
+Tyler Onyango,MID,45,3
+Isaac Price,MID,45,-1
+Marc Albrighton,MID,52,34
+Nampalys Mendy,MID,43,24
+Dennis Praet,MID,49,0
+Youri Tielemans,MID,64,120
+Ayoze Pérez,MID,57,32
+James Maddison,MID,69,155
+Hamza Choudhury,MID,44,9
+Harvey Barnes,MID,65,134
+Wilfred Ndidi,MID,48,47
+Boubakary Soumaré,MID,48,30
+Kiernan Dewsbury-Hall,MID,44,72
+Ademola Lookman,MID,59,82
+Lewis Brunt,MID,45,0
+Kasey McAteer,MID,45,0
+Pablo Hernández Domínguez,MID,55,0
+Mateusz Klich,MID,51,66
+Stuart Dallas,MID,49,83
+Kalvin Phillips,MID,47,38
+Hélder Wander Sousa de Azevedo e Costa,MID,54,0
+Tyler Roberts,MID,48,36
+Ian Carlo Poveda-Ocampo,MID,45,0
+Raphael Dias Belloli,MID,63,145
+Jamie Shackleton,MID,44,22
+Jack Harrison,MID,55,118
+Daniel James,MID,60,88
+Crysencio Summerville,MID,45,6
+Adam Forshaw,MID,45,37
+Liam McCarron,MID,44,0
+Nohan Kenneh,MID,44,-1
+Stuart McKinstry,MID,43,0
+Lewis Bate,MID,45,0
+Jack Jenkins,MID,45,0
+Archie Gray,MID,45,0
+James Milner,MID,49,35
+Jordan Henderson,MID,49,105
+Thiago Alcántara do Nascimento,MID,53,70
+Xherdan Shaqiri,MID,59,0
+Alex Oxlade-Chamberlain,MID,58,40
+Sadio Mané,MID,118,182
+Fabio Henrique Tavares,MID,54,94
+Mohamed Salah,MID,131,256
+Takumi Minamino,MID,51,25
+Naby Keita,MID,50,59
+Diogo Jota,MID,83,177
+Curtis Jones,MID,50,37
+Harvey Elliott,MID,53,16
+Ben Woodburn,MID,45,0
+Tyler Morton,MID,45,0
+Kaide Gordon,MID,45,-1
+Luis Díaz,MID,81,62
+Jack Grealish,MID,75,97
+Ilkay Gündogan,MID,71,123
+Kevin De Bruyne,MID,121,198
+Riyad Mahrez,MID,86,137
+Raheem Sterling,MID,105,161
+Bernardo Mota Veiga de Carvalho e Silva,MID,70,151
+Phil Foden,MID,79,141
+Rodrigo Hernandez,MID,55,126
+Ferran Torres,MID,67,23
+Fernando Luiz Rosa,MID,47,44
+Cole Palmer,MID,45,8
+Samuel Edozie,MID,47,0
+Tommy Doyle,MID,45,0
+Romeo Lavia,MID,44,0
+James McAtee,MID,44,0
+Nemanja Matic,MID,43,50
+Paul Pogba,MID,74,67
+Frederico Rodrigues de Paula Santos,MID,49,92
+Jesse Lingard,MID,67,27
+Bruno Miguel Borges Fernandes,MID,116,176
+Marcus Rashford,MID,94,54
+Scott McTominay,MID,54,69
+Mason Greenwood,MID,71,66
+Juan Mata,MID,47,12
+Jadon Sancho,MID,89,89
+Andreas Pereira,MID,50,0
+Anthony Elanga,MID,48,48
+Amad Diallo,MID,50,0
+Hannibal Mejbri,MID,45,-1
+Alejandro Garnacho Ferreyra,MID,45,0
+Shola Shoretire,MID,45,0
+Charlie Savage,MID,45,0
+Joseph Willock,MID,53,75
+Jonjo Shelvey,MID,53,60
+Jeff Hendrick,MID,48,6
+Ryan Fraser,MID,51,63
+Jacob Murphy,MID,46,52
+Isaac Hayden,MID,45,28
+Miguel Almirón,MID,50,51
+Sean Longstaff,MID,43,41
+Matthew Longstaff,MID,45,0
+Joe White,MID,44,0
+Elliot Anderson,MID,45,0
+Bruno Guimarães Rodriguez Moura,MID,50,69
+Lucas De Bolle,MID,44,0
+Billy Gilmour,MID,43,50
+Marco Stiepermann,MID,50,0
+Lukas Rupp,MID,44,24
+Kenny McLean,MID,49,70
+Onel Hernández,MID,49,0
+Kieran Dowell,MID,51,31
+Todd Cantwell,MID,53,10
+Przemyslaw Placheta,MID,47,18
+Josh Martin,MID,50,0
+Milot Rashica,MID,52,66
+Pierre Lees-Melou,MID,48,70
+Christos Tzolis,MID,48,17
+Mathias Normann,MID,45,46
+Jonathan Rowe,MID,44,13
+Liam Gibbs,MID,45,0
+Tony Springett,MID,45,3
+Theo Walcott,MID,58,8
+Oriol Romeu Vidal,MID,45,92
+Nathan Redmond,MID,59,74
+Stuart Armstrong,MID,58,56
+James Ward-Prowse,MID,64,158
+Nathan Tella,MID,47,25
+William Smallbone,MID,45,6
+Ibrahima Diallo,MID,45,34
+Moussa Djenepo,MID,52,12
+Mohamed Elyounoussi,MID,54,88
+Kgaogelo Chauke,MID,45,0
+Tyler Dibling,MID,45,0
+Erik Lamela,MID,60,0
+Heung-Min Son,MID,112,238
+Lucas Rodrigues Moura da Silva,MID,59,86
+Pierre-Emile Højbjerg,MID,48,105
+Harry Winks,MID,44,32
+Steven Bergwijn,MID,59,45
+Giovani Lo Celso,MID,59,11
+Oliver Skipp,MID,44,32
+Tanguy Ndombele,MID,57,24
+Bryan Gil Salvatierra,MID,57,8
+Dilan Markanday,MID,45,0
+Harvey White,MID,44,0
+Dejan Kulusevski,MID,63,88
+Rodrigo Bentancur,MID,49,49
+Alfie Devine,MID,45,0
+Jamie Bowden,MID,45,0
+Matthew Craig,MID,45,0
+Moussa Sissoko,MID,43,86
+Dan Gosling,MID,47,8
+Tom Cleverley,MID,48,43
+Nathaniel Chalobah,MID,50,0
+Ken Sema,MID,52,20
+Philip Zinckernagel,MID,55,0
+Ayotomiwa Dele-Bashiru,MID,45,0
+Domingos Quina,MID,45,0
+Ismaila Sarr,MID,57,78
+Joseph Hungbo,MID,45,0
+Imrân Louza,MID,52,34
+Kwadwo Baah,MID,43,0
+Oghenekaro Peter Etebo,MID,43,10
+Juraj Kucka,MID,55,54
+Ozan Tufan,MID,50,6
+Kamil Conteh,MID,45,0
+Edo Kayembe,MID,45,24
+Samuel Kalu,MID,49,6
+Adrian Blake,MID,45,0
+Mark Noble,MID,43,18
+Andriy Yarmolenko,MID,50,22
+Manuel Lanzini,MID,56,86
+Saïd Benrahma,MID,59,125
+Jarrod Bowen,MID,69,190
+Declan Rice,MID,50,96
+Tomas Soucek,MID,57,111
+Pablo Fornals,MID,59,123
+Conor Coventry,MID,45,0
+Nikola Vlasic,MID,56,26
+Alex Kral,MID,44,0
+Sonny Perkins,MID,45,0
+Armstrong Oko-Flex,MID,44,0
+Daniel Chesters,MID,45,0
+João Filipe Iria Santos Moutinho,MID,49,92
+Leander Dendoncker,MID,46,67
+Adama Traoré,MID,56,43
+Rúben Diogo da Silva Neves,MID,52,96
+Daniel Castelo Podence,MID,55,73
+Morgan Gibbs-White,MID,45,0
+Pedro Lomba Neto,MID,62,26
+Owen Otasowie,MID,45,0
+Francisco Machado Mota de Castro Trincão,MID,56,55
+Luke Cundle,MID,44,7
+Chem Campbell,MID,44,0
+Bruno André Cavaco Jordão,MID,45,0
+Ryan Giles,MID,45,0
+Francisco Jorge Tomás Oliveira,MID,55,19
+Cédric Soares,DEF,42,47
+Pablo Marí,DEF,42,5
+Héctor Bellerín,DEF,48,0
+Sead Kolasinac,DEF,42,2
+Rob Holding,DEF,41,27
+Kieran Tierney,DEF,49,103
+Gabriel Magalhães,DEF,53,143
+Konstantinos Mavropanos,DEF,45,0
+William Saliba,DEF,45,0
+Ben White,DEF,46,108
+Nuno Varela Tavares,DEF,43,43
+Takehiro Tomiyasu,DEF,45,75
+Ryan Alebiosu,DEF,40,0
+Zach Awe,DEF,40,0
+Zak Swanson,DEF,40,0
+Mazeed Ogungbo,DEF,40,0
+Alex Kirk,DEF,40,0
+Calum Chambers,DEF,42,40
+Björn Engels,DEF,45,0
+Kortney Hause,DEF,44,16
+Tyrone Mings,DEF,50,120
+Matthew Cash,DEF,53,141
+Ezri Konsa Ngoyo,DEF,49,80
+Frédéric Guilbert,DEF,45,0
+Ashley Young,DEF,47,47
+Lucas Digne,DEF,50,84
+Lamare Bogarde,DEF,40,0
+Josh Feeney,DEF,40,0
+Kaine Hayden,DEF,40,0
+Pontus Jansson,DEF,45,120
+Rico Henry,DEF,45,105
+Charlie Goode,DEF,39,14
+Mads Roerslev Rasmussen,DEF,41,34
+Mads Bech Sørensen,DEF,43,22
+Ethan Pinnock,DEF,44,88
+Kristoffer Ajer,DEF,44,81
+Dominic Thompson,DEF,44,3
+Finley Stevens,DEF,39,1
+Mathias Jorgensen,DEF,45,17
+Julian Jeanvier,DEF,40,0
+Shane Duffy,DEF,40,51
+Lewis Dunk,DEF,48,97
+Adam Webster,DEF,43,53
+Joël Veltman,DEF,42,95
+Bernardo Fernandes Da Silva Junior,DEF,40,0
+Tariq Lamptey,DEF,45,72
+Michal Karbownik,DEF,40,0
+Haydon Roberts,DEF,39,0
+Marc Cucurella,DEF,49,125
+Ed Turns,DEF,40,0
+Odeluga Offiah,DEF,40,0
+James Tarkowski,DEF,49,83
+Phil Bardsley,DEF,39,0
+Erik Pieters,DEF,41,34
+Kevin Long,DEF,40,5
+Ben Mee,DEF,46,73
+Matthew Lowton,DEF,44,59
+Charlie Taylor,DEF,44,70
+Nathan Collins,DEF,43,56
+Bobby Thomas,DEF,39,0
+Owen Dodgson,DEF,39,0
+Connor Roberts,DEF,44,68
+César Azpilicueta,DEF,56,85
+Thiago Emiliano da Silva,DEF,56,132
+Marcos Alonso,DEF,57,115
+Antonio Rüdiger,DEF,61,146
+Andreas Christensen,DEF,46,69
+Benjamin Chilwell,DEF,56,47
+Ethan Ampadu,DEF,45,0
+Reece James,DEF,65,130
+Malang Sarr,DEF,49,28
+Trevoh Chalobah,DEF,47,96
+Emerson Palmieri dos Santos,DEF,45,1
+Robert Kenedy Nunes do Nascimento,DEF,45,4
+James Tomkins,DEF,43,17
+Cheikhou Kouyaté,DEF,45,76
+Martin Kelly,DEF,38,0
+Jarosław Jach,DEF,42,0
+Nathan Ferguson,DEF,45,1
+Tyrick Mitchell,DEF,45,106
+Joel Ward,DEF,45,76
+Marc Guéhi,DEF,45,123
+Joachim Andersen,DEF,47,123
+Nathaniel Clyne,DEF,43,57
+Reece Hannam,DEF,39,0
+Tayo Adaramola,DEF,40,0
+Seamus Coleman,DEF,49,82
+Michael Keane,DEF,46,98
+Yerry Mina,DEF,49,22
+Mason Holgate,DEF,42,60
+Ben Godfrey,DEF,47,47
+Jonjoe Kenny,DEF,43,24
+Jarrad Branthwaite,DEF,40,6
+Niels Nkounkou,DEF,40,0
+Reece Welch,DEF,40,0
+Nathan Patterson,DEF,41,0
+Vitalii Mykolenko,DEF,49,38
+Jonny Evans,DEF,54,40
+Ricardo Domingos Barbosa Pereira,DEF,52,35
+Daniel Amartey,DEF,40,57
+Timothy Castagne,DEF,53,73
+Çaglar Söyüncü,DEF,49,65
+James Justin,DEF,49,29
+Luke Thomas,DEF,43,52
+Wesley Fofana,DEF,43,17
+Jannik Vestergaard,DEF,47,17
+Ryan Bertrand,DEF,46,4
+Vontae Daley-Campbell,DEF,40,0
+Ben Nelson,DEF,40,0
+Liam Cooper,DEF,44,56
+Luke Ayling,DEF,43,55
+Diego Llorente,DEF,45,62
+Robin Koch,DEF,43,26
+Pascal Struijk,DEF,43,41
+Héctor Junior Firpo Adames,DEF,47,28
+Cody Drameh,DEF,39,3
+Charlie Cresswell,DEF,40,4
+Leo Fuhr Hjelde,DEF,40,4
+Kris Moore,DEF,40,0
+Joel Matip,DEF,53,168
+Virgil van Dijk,DEF,68,179
+Andrew Robertson,DEF,73,179
+Trent Alexander-Arnold,DEF,84,199
+Joseph Gomez,DEF,47,19
+Nathaniel Phillips,DEF,42,0
+Ibrahima Konaté,DEF,51,40
+Konstantinos Tsimikas,DEF,37,43
+Neco Williams,DEF,38,4
+Rhys Williams,DEF,44,0
+Ben Davies,DEF,40,0
+Conor Bradley,DEF,40,0
+Owen Beck,DEF,40,0
+Jarell Quansah,DEF,40,0
+Kyle Walker,DEF,54,83
+John Stones,DEF,52,66
+Benjamin Mendy,DEF,52,4
+João Pedro Cavaco Cancelo,DEF,72,194
+Nathan Aké,DEF,47,50
+Aymeric Laporte,DEF,60,158
+Rúben Santos Gato Alves Dias,DEF,62,136
+Oleksandr Zinchenko,DEF,53,58
+Luke Mbete,DEF,39,0
+Joshua Wilson-Esbrand,DEF,39,0
+Conrad Egan-Riley,DEF,40,1
+Harry Maguire,DEF,54,74
+Luke Shaw,DEF,50,51
+Alex Nicolao Telles,DEF,49,65
+Axel Tuanzebe,DEF,44,15
+Victor Lindelöf,DEF,48,77
+Eric Bailly,DEF,49,4
+Aaron Wan-Bissaka,DEF,51,45
+José Diogo Dalot Teixeira,DEF,42,57
+Raphaël Varane,DEF,55,68
+Phil Jones,DEF,45,4
+Álvaro Fernández,DEF,40,0
+Matt Targett,DEF,47,102
+Dan Burn,DEF,44,93
+Matt Ritchie,DEF,49,26
+Ciaran Clark,DEF,44,19
+Jamaal Lascelles,DEF,44,50
+Paul Dummett,DEF,45,6
+Javier Manquillo,DEF,39,35
+Emil Krafth,DEF,43,58
+Fabian Schär,DEF,41,84
+Jamal Lewis,DEF,42,8
+Federico Fernández,DEF,43,11
+Kieran Trippier,DEF,49,25
+Brandon Williams,DEF,39,40
+Grant Hanley,DEF,44,78
+Sam Byram,DEF,44,25
+Christoph Zimmermann,DEF,44,2
+Max Aarons,DEF,43,57
+Jacob Sørensen,DEF,43,10
+Andrew Omobamidele,DEF,39,13
+Ben Gibson,DEF,44,74
+Dimitris Giannoulis,DEF,44,41
+Bali Mumba,DEF,39,1
+Ozan Kabak,DEF,43,22
+Jonathan Tomkinson,DEF,40,0
+Jack Stephens,DEF,44,15
+Kyle Walker-Peters,DEF,48,85
+Jan Bednarek,DEF,44,92
+Mohammed Salisu,DEF,45,84
+Romain Perraud,DEF,48,37
+Tino Livramento,DEF,42,83
+Yan Valery,DEF,39,11
+Lyanco Evangelista Silveira Neves Vojnovic,DEF,44,23
+Dynel Simeu,DEF,40,0
+Thierry Small,DEF,40,0
+Toby Alderweireld,DEF,50,0
+Serge Aurier,DEF,49,0
+Matt Doherty,DEF,45,61
+Eric Dier,DEF,47,133
+Ben Davies,DEF,45,103
+Davinson Sánchez,DEF,42,94
+Ryan Sessegnon,DEF,44,56
+Sergio Reguilón,DEF,50,103
+Japhet Tanganga,DEF,42,34
+Joe Rodon,DEF,42,3
+Cristian Romero,DEF,48,62
+Emerson Aparecido Leite de Souza Junior,DEF,46,102
+Tobi Omole,DEF,39,0
+Marcel Lavinier,DEF,40,0
+Danny Rose,DEF,42,9
+Craig Cathcart,DEF,42,47
+Francisco Femenía Far,DEF,43,53
+Christian Kabasele,DEF,43,23
+William Troost-Ekong,DEF,43,24
+Adam Masina,DEF,43,27
+Francisco Sierralta,DEF,43,6
+Marc Navarro,DEF,40,0
+Jeremy Ngakia,DEF,42,26
+Ben Wilmot,DEF,45,0
+Matthew Pollock,DEF,40,0
+Nicolas Nkoulou,DEF,44,4
+James Morris,DEF,40,0
+Hassane Kamara,DEF,45,40
+Samir Caetano de Souza Santos,DEF,45,40
+Kurt Zouma,DEF,54,64
+Angelo Ogbonna,DEF,49,34
+Winston Reid,DEF,39,0
+Aaron Cresswell,DEF,54,113
+Craig Dawson,DEF,49,84
+Ryan Fredericks,DEF,44,7
+Arthur Masuaku,DEF,44,25
+Vladimir Coufal,DEF,47,75
+Issa Diop,DEF,42,29
+Ben Johnson,DEF,39,44
+Frederik Alves,DEF,40,0
+Jamal Baptiste,DEF,39,0
+Harrison Ashby,DEF,40,1
+Ajibola Alese,DEF,40,0
+Pierre Ekwah,DEF,40,0
+Willy Boly,DEF,49,22
+Conor Coady,DEF,47,135
+Romain Saïss,DEF,48,106
+Fernando Marçal,DEF,42,64
+Jonathan Castro Otto,DEF,45,36
+Nélson Cabral Semedo,DEF,48,92
+Max Kilman,DEF,45,104
+Ki-Jana Hoever,DEF,39,10
+Yerson Mosquera Valdelamar,DEF,44,0
+Rayan Ait Nouri,DEF,41,82
+Christian Marques,DEF,40,0
+Hugo Bueno,DEF,40,0
+Toti António Gomes,DEF,44,6
+Dion Sanderson,DEF,40,0
