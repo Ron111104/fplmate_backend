@@ -11,9 +11,14 @@ https://docs.djangoproject.com/en/5.1/ref/settings/
 """
 
 from pathlib import Path
-
+import os
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
+# MODEL_PATH = os.path.join(BASE_DIR, 'models', 'fpl_rating_model.pkl')
+# SCALER_PATH = os.path.join(BASE_DIR, 'models', 'scaler.pkl')
+# MIN_MAX_POINTS_PATH = os.path.join(BASE_DIR, 'models', 'min_max_points.pkl')
+# print(MODEL_PATH)
+
 
 
 
@@ -42,15 +47,17 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'models'
+    'models',
+    'corsheaders'
 ]
 
 MIDDLEWARE = [
+    'corsheaders.middleware.CorsMiddleware',
     'django.middleware.security.SecurityMiddleware',
     'whitenoise.middleware.WhiteNoiseMiddleware',  # Make sure it's here
     'django.contrib.sessions.middleware.SessionMiddleware',
     'django.middleware.common.CommonMiddleware',
-    'django.middleware.csrf.CsrfViewMiddleware',
+    # 'django.middleware.csrf.CsrfViewMiddleware',
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
@@ -76,7 +83,18 @@ TEMPLATES = [
     },
 ]
 
-
+CORS_ALLOW_METHODS = [
+    'GET',
+    'POST',
+    'PUT',
+    'PATCH',
+    'DELETE',
+    'OPTIONS',
+]
+CORS_ALLOWED_ORIGINS = [
+    "http://localhost:3000",
+    "http://127.0.0.1:3000",  # You can also add this as an additional origin
+]
 WSGI_APPLICATION = 'fplmate_backend.wsgi.application'
 
 
