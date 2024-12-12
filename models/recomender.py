@@ -218,6 +218,7 @@ class RecommendTeamView(View):
             all_data = load_player_data(players_dir, raw_data_path)
             latest_data = prepare_latest_data(all_data)
             team_mapping = load_teams_data(teams_path)
+            latest_data.to_csv(os.path.join(BASE_DIR, 'latest_data.csv'), index=False)
             # Generate best team
             team_df = select_best_team(TEAM_STRUCTURE, MAX_PLAYERS_PER_TEAM, MAX_SPEND, latest_data)
             total_points = round(float(team_df['average_total_points'].sum()), 2)
