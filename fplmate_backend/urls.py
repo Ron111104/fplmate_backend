@@ -20,7 +20,6 @@ from django.urls import path, re_path
 from django.shortcuts import redirect
 from .hello import hello
 from models.views import predict_rating
-from .scraper import scrape
 from models.recomender import RecommendTeamView
 urlpatterns = [
     path('admin/', admin.site.urls),
