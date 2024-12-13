@@ -14,6 +14,7 @@ from pathlib import Path
 import os
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
+print(BASE_DIR)
 # MODEL_PATH = os.path.join(BASE_DIR, 'models', 'fpl_rating_model.pkl')
 # SCALER_PATH = os.path.join(BASE_DIR, 'models', 'scaler.pkl')
 # MIN_MAX_POINTS_PATH = os.path.join(BASE_DIR, 'models', 'min_max_points.pkl')

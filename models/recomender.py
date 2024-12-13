@@ -3,10 +3,10 @@ import pandas as pd
 from collections import Counter
 from django.http import JsonResponse
 from django.views import View
-
+from django.conf import settings
 # Base directory for file paths
-BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-
+# BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+BASE_DIR = settings.BASE_DIR
 
 def normalize_name(name):
     """Normalize the name to remove special characters."""
