@@ -21,11 +21,13 @@ from django.shortcuts import redirect
 from .hello import hello
 from models.views import predict_rating
 from models.recomender import RecommendTeamView
+from .basedir import BaseDirectoryView
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('landing',hello,name='hello'),
     # path('scrape', scrape),  # Endpoint to scrape a page
     path('predict-rating', predict_rating),  # Endpoint to predict player rating
     path('recommend-team', RecommendTeamView.as_view(), name='recommend_team'),
+    path('base-dir/', BaseDirectoryView.as_view(), name='base_directory'),
     re_path(r'^.*$', lambda request: redirect('/landing'))  # Catch-all redirect
 ]
